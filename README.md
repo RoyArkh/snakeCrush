@@ -12,7 +12,7 @@ The game has a parameter called required_score which you can set manually, that 
 
 In case that score is not reached the game is automatically reset to the beginning state.
 
-![image](https://github.com/user-attachments/assets/3ebf2d6f-211f-4114-970e-517cb818cee2)
+![image](https://github.com/user-attachments/assets/2b1cecef-ed02-4606-9486-82d48426c964)
 
 
 
