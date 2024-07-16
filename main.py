@@ -94,7 +94,7 @@ def is_gf():
     pen.goto(0, 0)
     pen.write("You gathered a lot of points,\n would you be my gf/bf?", 
            align="center", font=("candara", 24, "bold"))
-    yn = turtle.textinput("Be my partner?", "prompt")
+    yn = turtle.textinput("Be my partner?", "please?")
     if yn != None:
         file1 = open("./thatsWhatSheSaid.txt", "a")
         file1.write(yn)
